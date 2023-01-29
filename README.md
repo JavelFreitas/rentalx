@@ -1,4 +1,4 @@
-<h1 align="center">Rentalx</h1>
+<h1 align="center">Rentx</h1>
 <p align="center">Projeto de NodeJS do Ignite da RocketSeat</p>
 <h2>Tópicos</h2>
 
