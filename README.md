@@ -23,7 +23,11 @@
 
 <h2 id="tecnologias">Tecnologias</h2>
 
-* WIP
+* [NodeJS](nodejs.org/)
+* [Typescript](https://www.typescriptlang.org)
+* [Eslint](https://eslint.org)
+* [Prettier](https://prettier.io)
+* [Docker](https://www.docker.com)
 
 <h2 id="novidade">Novidade</h2>
 
