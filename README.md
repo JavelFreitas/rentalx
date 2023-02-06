@@ -28,6 +28,12 @@
 * [Eslint](https://eslint.org)
 * [Prettier](https://prettier.io)
 * [Docker](https://www.docker.com)
+* [Swagger](https://swagger.io)
+* [Typeorm](https://typeorm.io)
+* [Multer](https://www.npmjs.com/package/multer)
+* [Tsyringe](https://github.com/microsoft/tsyringe)
+* [Express](https://expressjs.com/pt-br/)
+* [Ts-node-dev](https://www.npmjs.com/package/ts-node-dev)
 
 <h2 id="novidade">Novidade</h2>
 
