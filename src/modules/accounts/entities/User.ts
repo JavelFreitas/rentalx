@@ -19,13 +19,13 @@ class User {
   password: string;
 
   @Column()
-  driverLicense: string;
+  driver_license: string;
 
   @Column()
   isAdmin: boolean;
 
   @CreateDateColumn()
-  createdAt: Date;
+  created_at: Date;
 
   constructor() {
     if (!this.id) {

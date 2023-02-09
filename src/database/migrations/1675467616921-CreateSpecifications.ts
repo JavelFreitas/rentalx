@@ -20,7 +20,7 @@ export class CreateSpecifications1675467616921 implements MigrationInterface {
             type: 'varchar',
           },
           {
-            name: 'createdAt',
+            name: 'created_at',
             type: 'timestamp',
             default: 'now()',
           },
